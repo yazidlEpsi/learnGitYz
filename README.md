@@ -21,11 +21,14 @@
 
 
 ***
-##### ![alt text](/images/icones/heure.png "heure")Last modification : 20/07/2018
+<img src="/images/icones/heure.png " height="20px" alt="heure">
+
+##### Last modification : 20/07/2018
 ***
 
+<img src="/images/icones/dta.png " height="20px" alt="dta">
 
-###### [Sponsored by DTA Ingénieurie](/images/dta.png "entreprise")
+###### Sponsored by DTA Ingénieurie
 
 
 
