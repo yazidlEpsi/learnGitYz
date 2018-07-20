@@ -1,8 +1,8 @@
 ﻿# learnGitYz
 ***
-<h4 align="center">
+<p align="center">
 	Connaissance basique de git
-</h4>
+</p>
 
 
 ***
@@ -16,7 +16,7 @@
 | Propriété        | Définition    
 | ------------- |:-------------:|
 | Git init      | Cela crée un nouveau sous-répertoire nommé .git qui contient tous les fichiers nécessaires au dépôt | 
-| Git add     | Spécifient les fichiers que vous souhaitez suivre    | 
+| Git add     | spécifient les fichiers que vous souhaitez suivre    | 
 | Git clone | Copie du projet      | 
 | Git status | Etat actuel du projet      | 
 
@@ -38,9 +38,9 @@
 ![alt text](/images/icones/heure.png  "Last modification :20/07/2018" )
  -Last modification : 20/07/2018 
 
-
+ 
 ![alt text](/images/icones/dta.png  "Last modification :20/07/2018" )
- -Sponsored by : DTA Ingénierie
+ -Sponsored by : DTA Ingénieurie
 
 
 ***
