@@ -21,16 +21,22 @@
 
 
 ***
-<img src="/images/icones/heure.png " height="20px" alt="heure">
+<div>
+	<img src="/images/icones/heure.png " height="20px" alt="heure">
+	<p style="float: right">Last modification : <strong>20/07/2018 </strong> </p>
+</div>
+<div style="clear:both">
+	<img src="/images/icones/dta.png "  height="20px" alt="dta" >
+	<p style="float: right">Sponsored by : <strong>DTA Ingénieurie</strong> </p>
+</div>
 
-##### Last modification : 20/07/2018
+
+
+
+
+###### 
+
 ***
-
-<img src="/images/icones/dta.png " height="20px" alt="dta">
-
-###### Sponsored by DTA Ingénieurie
-
-
 
 
 
