@@ -22,7 +22,7 @@
 
 ***
 
-Inline-style: 
+
 ![alt text](/images/icones/heure.png  "Last modification :20/07/2018" )
 	-Last modification : 20/07/2018 
 ![alt text](/images/icones/dta.png  "Last modification :20/07/2018" )
