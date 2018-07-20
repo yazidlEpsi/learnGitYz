@@ -24,7 +24,7 @@
 
 
 ![alt text](/images/icones/heure.png  "Last modification :20/07/2018" )
-	-Last modification : 20/07/2018 
+	-Last modification : 20/07/2018 lol
 ![alt text](/images/icones/dta.png  "Last modification :20/07/2018" )
  -Sponsored by : DTA Ingénieurie
 
@@ -33,3 +33,6 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/hsqTki3l13fYA/giphy.gif" >
 </p>
+
+![alt text](/images/icones/dta.png  "Last modification :20/07/2018" )
+ -Sponsored by : DTA Ingénieurie
