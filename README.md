@@ -32,6 +32,6 @@
 
 ***
 
-<img src="https://giphy.com/embed/hsqTki3l13fYA">
+<img src="https://media.giphy.com/media/hsqTki3l13fYA/giphy.gif">
 
 
