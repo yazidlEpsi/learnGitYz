@@ -23,11 +23,11 @@
 ***
 <div>
 	<img src="/images/icones/heure.png " style="float: left" height="20px" alt="heure">
-	<p style="float: right">  Last modification : <strong>20/07/2018 </strong> </p>
+	<p style="float: right">  -Last modification : <strong>20/07/2018 </strong> </p>
 </div>
 <div style="clear:both">
 	<img src="/images/icones/dta.png" style="float: left" height="20px" alt="dta" >
-	<p style="float: right">  Sponsored by : <strong>DTA Ingénieurie</strong> </p>
+	<p style="float: right">  -Sponsored by : <strong>DTA Ingénieurie</strong> </p>
 </div>
 
 ***
