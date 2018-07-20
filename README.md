@@ -7,7 +7,7 @@
 
 ***
 <p align="center">
- <img src="/images/git-logo.jpg" height="200px" align="center" alt="logogit">
+ <img src="/images/git-logo.jpg" height="200px" alt="logogit">
 </p>
 
 ***
@@ -20,12 +20,15 @@
 | Git status | Etat actuel du projet      | 
 
 
-
-
-
 ***
-##### Last modification : 20/07/2018
+##### ![alt text](/images/icones/heure.png "heure")Last modification : 20/07/2018
 ***
 
 
-###### Sponsored by DTA Ingénieurie
+###### [Sponsored by DTA Ingénieurie](/images/dta.png "entreprise")
+
+
+
+
+
+<img src="http://s.4cdn.org/image/title/105.gif">
