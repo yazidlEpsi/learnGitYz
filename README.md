@@ -1,9 +1,15 @@
 #### learnGitYz
 ***
-#Connaissance basique de git
+<p align="center">
+	
+	#Connaissance basique de git
+</p>
+
 
 ***
-![alt text](/images/git-logo.jpg "Logo Title Text 1")
+
+ <img src="/images/git-logo.jpg" height="200px" align="center" alt="logogit">
+
 
 ***
 
@@ -14,14 +20,7 @@
 | Git clone | Copie du projet      | 
 
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
+
 
 ***
 ##### 20/07/2018
