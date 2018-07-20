@@ -14,11 +14,12 @@
 
  Propriété        | Définition    
 ------------- |-------------
- Git init      | Cela crée un nouveau sous-répertoire nommé .git qui contient tous les fichiers nécessaires au dépôt
- Git add     | spécifient les fichiers que vous souhaitez suivre   
+ Git init      | Cela crée un nouveau repository nommé .git qui contient tous les fichiers nécessaires au dépôt
+ Git add     | spécifient les fichiers que vous souhaitez enregistrer   
  Git commit -m  | enregistre les modifications dans le répertoire .git
- Git clone | Copie du projet      
- Git status | Etat actuel du projet     
+ Git clone | Copie du repository distant      
+ Git status | Etat actuel du projet    
+ Git log  | permet de voir l'historique 
 
 
 ***
