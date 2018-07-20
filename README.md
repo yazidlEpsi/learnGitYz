@@ -21,14 +21,13 @@
 
 
 ***
-<div>
-	<img src="/images/icones/heure.png " style="background-color: red; float: left" height="20px" alt="heure">
-	<p style="float: right">  -Last modification : <strong>20/07/2018 </strong> </p>
-</div>
-<div style="clear:both">
-	<img src="/images/icones/dta.png" style="float: left" height="20px" alt="dta" >
-	<p style="float: right">  -Sponsored by : <strong>DTA Ingénieurie</strong> </p>
-</div>
+
+Inline-style: 
+![alt text](/images/icones/heure.png  "Last modification :20/07/2018" )
+	-Last modification : 20/07/2018 
+![alt text](/images/icones/dta.png  "Last modification :20/07/2018" )
+ -Sponsored by : DTA Ingénieurie
+
 
 ***
 <p align="center">
