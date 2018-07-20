@@ -20,7 +20,7 @@
  Git clone | Copie du repository distant      
  Git status | Etat actuel du projet    
  Git log  | permet de voir l'historique 
-
+ Git log  --graph --decorate| permet de voir l'historique en plus joli
 
 ***
 
