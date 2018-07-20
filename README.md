@@ -22,22 +22,16 @@
 
 ***
 <div>
-	<img src="/images/icones/heure.png " height="20px" alt="heure">
-	<p style="float: right">Last modification : <strong>20/07/2018 </strong> </p>
+	<img src="/images/icones/heure.png " style="float: left" height="20px" alt="heure">
+	<p style="float: right">  Last modification : <strong>20/07/2018 </strong> </p>
 </div>
 <div style="clear:both">
-	<img src="/images/icones/dta.png "  height="20px" alt="dta" >
-	<p style="float: right">Sponsored by : <strong>DTA Ingénieurie</strong> </p>
+	<img src="/images/icones/dta.png" style="float: left" height="20px" alt="dta" >
+	<p style="float: right">  Sponsored by : <strong>DTA Ingénieurie</strong> </p>
 </div>
-
-
-
-
-
-###### 
 
 ***
 
-
-
-<img src="http://s.4cdn.org/image/title/105.gif">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+	<iframe src="https://giphy.com/embed/hsqTki3l13fYA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
