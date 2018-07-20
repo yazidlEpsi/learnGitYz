@@ -22,7 +22,7 @@
 
 ***
 <div>
-	<img src="/images/icones/heure.png " style="float: left" height="20px" alt="heure">
+	<img src="/images/icones/heure.png " style="background-color: red; float: left" height="20px" alt="heure">
 	<p style="float: right">  -Last modification : <strong>20/07/2018 </strong> </p>
 </div>
 <div style="clear:both">
@@ -31,7 +31,6 @@
 </div>
 
 ***
-
-<img src="https://media.giphy.com/media/hsqTki3l13fYA/giphy.gif">
-
-
+<p align="center">
+	<img src="https://media.giphy.com/media/hsqTki3l13fYA/giphy.gif" >
+</p>
