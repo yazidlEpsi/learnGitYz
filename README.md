@@ -1,15 +1,14 @@
 #### learnGitYz
 ***
 <p align="center">
-
-	#Connaissance basique de git
+	Connaissance basique de git
 </p>
 
 
 ***
-
+<p align="center">
  <img src="/images/git-logo.jpg" height="200px" align="center" alt="logogit">
-
+</p>
 
 ***
 
