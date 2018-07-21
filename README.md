@@ -12,15 +12,7 @@
 
 ***
 
-<<<<<<< HEAD
-| Propriété        | Définition    
-| ------------- |:-------------:|
-| Git init      | Cela crée un nouveau sous-répertoire nommé .git qui contient tous les fichiers nécessaires au dépôt | 
-| Git add     | spécifient les fichiers que vous souhaitez suivre    | 
-| Git clone | Copie du projet      | 
-| Git status | Etat actuel du projet      | 
 
-=======
  Propriété        | Définition    
 ------------- |-------------
  Git init      | Cela crée un nouveau repository nommé .git qui contient tous les fichiers nécessaires au dépôt
@@ -30,7 +22,6 @@
  Git status | Etat actuel du projet    
  Git log  | permet de voir l'historique 
  Git log  --graph --decorate| permet de voir l'historique en plus joli
->>>>>>> dba03043e3419571f3238df42b45c19821472c14
 
 ***
 
